@@ -1,2 +1,2 @@
 # weatherApp-node
-⛈ Weather app with OpenWeatherMap API in Node.Js 
+⛈ Weather app with OpenWeatherMap API in Node.js 
