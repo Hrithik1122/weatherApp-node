@@ -5,7 +5,7 @@
 
 ```
 git clone https://github.com/Hrithik1122/weatherApp-node
-cd portfolio
+cd weatherApp-node
 npm install
 node index.js
 ```
